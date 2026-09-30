@@ -1,4 +1,4 @@
-;package jpa00;
+package jpa00;
 
 public class Hello {
     public static void main(String[] args) {
